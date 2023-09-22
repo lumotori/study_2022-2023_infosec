@@ -1,6 +1,6 @@
 ---
 ## Front matter
-title: "Отчет по лабораторной работе №3"
+title: "Лабораторная работа № 3"
 subtitle: "Дискреционное разграничение прав в Linux. Два пользователя"
 author: "Казакова Виктория Алексеевна"
 
@@ -65,7 +65,6 @@ header-includes:
   - \usepackage{float} # keep figures where there are in the text
   - \floatplacement{figure}{H} # keep figures where there are in the text
 ---
-
 # Цель работы
 
 ### Получение практических навыков работы в консоли с атрибутами файлов для групп пользователей.
