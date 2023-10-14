@@ -119,7 +119,7 @@ header-includes:
 
 ![Изменение контекста](image/11.png){#fig:011 width=70%}
 
-14.Попробовала ещё раз получить доступ к файлу через веб-сервер. В ответ получила запись Forbidden. You don't have permission to access /test.html on this server.
+14. Попробовала ещё раз получить доступ к файлу через веб-сервер. В ответ получила запись Forbidden. You don't have permission to access /test.html on this server.
 
 15. Просмотрела log-файлы веб-сервера Apache и системный лог-файл (рис. @fig:012).
 
