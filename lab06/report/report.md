@@ -144,8 +144,7 @@ header-includes:
 В рамках данной лабораторной работы были развиты навыки администрирования ОС Linux. Получено первое практическое знакомство с технологией SELinux1. Проверена работа SELinx на практике совместно с веб-сервером Apache.
 
 
-# Список литературы{.unnumbered}
+# Список литературы
 
-[1] https://blog.skillfactory.ru/glossary/operaczionnaya-sistema/
-
-[2] https://codechick.io/tutorials/unix-linux/unix-linux-permissions
+[1][Методический материал] [https://esystem.rudn.ru/pluginfile.php/2090279/mod_resource/content/2/005-lab_discret_sticky.pdf]
+[2][Методический материал] [https://esystem.rudn.ru/pluginfile.php/2090282/mod_resource/content/2/006-lab_selinux.pdf]
